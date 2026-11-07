@@ -55,7 +55,6 @@ https://github.com/ablanco1950/BrainTumorsSegmentation_yolo26
 
 This project, which employs `yolo26-seg`, is presented here.
 
-
 ===============================================
 
 INSTALLATION
@@ -108,6 +107,8 @@ The training process was configured and adapted to run on a personal computer eq
 During training, intermediate model files—`best.pt` and `last.pt`—are saved to the directory `runs\segment\entrenamientos_yolo26\segmentacion_custom\weights`, which is created automatically.
 
 A compressed folder, `segmentacion_custom.zip`, is attached; it contains the training results, including the confusion matrix.
+
+![Figure 2](https://github.com/ablanco1950/Detect_Leukocoria_Yolo26-seg/blob/main/confusion_matrix_normalized.png)
 
 ================================================
 
