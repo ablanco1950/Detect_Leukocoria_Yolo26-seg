@@ -126,6 +126,6 @@ https://medium.com/@mochammadyahya002/building-retina-ai-from-a-cnn-training-pip
 
 * This project benefited from the assistance of **Google Gemini** in designing data-processing scripts, optimizing hyperparameters, and structuring the workflow for YOLO26-seg.
 
-* Thanks to **Ultralytics** for providing the framework and the native tools for depth estimation.
+* Thanks to **Ultralytics** for providing the framework and the native tools for segmentation estimation.
 
 As the assistance was provided in Spanish, the comment lines within the code are in Spanish.
