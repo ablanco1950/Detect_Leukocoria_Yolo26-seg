@@ -48,7 +48,26 @@ https://github.com/ablanco1950/BrainTumorsSegmentation_yolo26
 
 This project, which employs `yolo26-seg`, is presented here.
 
-===========================================================
+
+===============================================
+
+INSTALLATION
+
+Download and extract the project folder.
+
+Download the dataset from: https://universe.roboflow.com/leukocoria-detector-nv8ij/leukocoria-detector-rsl8x/dataset/2
+
+You will need a Roboflow API key, which can be obtained for free on the Roboflow website.
+
+You can choose the option to download the dataset as a ZIP file, move it to the project folder, and extract it there. You may be prompted to overwrite existing files—this is because the `data.yaml` file appears twice in the Roboflow dataset; please proceed with the overwrite.
+
+Regarding the required modules, a `requirements.txt` file is provided.
+
+In a new environment, you simply need to install the latest version of `ultralytics`:
+
+pip install ultralytics
+
+================================================
 
 TEST
 
