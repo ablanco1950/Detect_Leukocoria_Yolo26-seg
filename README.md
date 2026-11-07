@@ -75,7 +75,9 @@ TEST
 
 The 37 images from the file `Leukocoria Detector.v2-leukocoria-version-2.yolov8-obb\test\images` are displayed one by one. On the right side of the screen, the image appears with labels identifying the eye as either healthy (in red) or affected by leukocoria (in blue)—these are assumed to be the correct classifications. On the right, the image is displayed, indicating whether the eyes are predicted to be healthy or to have leukocoria.
 
-![Figure 1](https://github.com/ablanco1950/BrainTumorsSegmentation_yolo26/blob/main/Figure_1.png)
+https://github.com/ablanco1950/Detect_Leukocoria_Yolo26-seg/blob/main/TestExample_1.png
+
+![Figure 1]([https://github.com/ablanco1950/BrainTumorsSegmentation_yolo26/blob/main/Figure_1.png])
 
 The console output also specifies, for each image and each eye, whether it is labeled as healthy (in red) or as having leukocoria (in blue).
 
