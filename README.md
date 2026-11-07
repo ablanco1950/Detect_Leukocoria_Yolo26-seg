@@ -64,7 +64,7 @@ Testing  37 images from the folder Leukocoria Detector.v2-leukocoria-version-2.y
 image_295_png.rf.8b08082f95cf4b4760376373643b3ba7.jpg
 OIP_-_-QNAiEQ0e9z0tP0D6WFAHaHA_jpg.rf.92e28366c7c24f32e342db595ffffa6e.jpg
 
-==========================================================================
+=================================================
 TRAINING
 
 The model used for testing:`best.pt`, was obtained by executing:
