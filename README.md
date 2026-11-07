@@ -48,7 +48,8 @@ https://github.com/ablanco1950/BrainTumorsSegmentation_yolo26
 
 This project, which employs `yolo26-seg`, is presented here.
 
-==================================================================================================
+===========================================================
+
 #TEST
 
 `python TestLeukocoriaSegmentation_yolo26.py`
@@ -63,11 +64,12 @@ Testing  37 images from the folder Leukocoria Detector.v2-leukocoria-version-2.y
 image_295_png.rf.8b08082f95cf4b4760376373643b3ba7.jpg
 OIP_-_-QNAiEQ0e9z0tP0D6WFAHaHA_jpg.rf.92e28366c7c24f32e342db595ffffa6e.jpg
 
-TRAINING
+==========================================================================
+#TRAINING
 
-The model used for testing—`best.pt`—was obtained by executing:
+The model used for testing:`best.pt`, was obtained by executing:
 
-`python TrainLeukocoriaSegmentation_yolo26.py`
+python TrainLeukocoriaSegmentation_yolo26.py
 
 The training process was configured and adapted to run on a personal computer equipped with a CPU (no GPU) and 16 GB of RAM. This setup allowed for daily tasks and other applications to continue running while the model was being trained over 200 epochs.
 
