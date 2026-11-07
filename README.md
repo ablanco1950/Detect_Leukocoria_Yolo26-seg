@@ -50,7 +50,7 @@ This project, which employs `yolo26-seg`, is presented here.
 
 ===========================================================
 
-#TEST
+TEST
 
 `python TestLeukocoriaSegmentation_yolo26.py`
 
@@ -65,7 +65,7 @@ image_295_png.rf.8b08082f95cf4b4760376373643b3ba7.jpg
 OIP_-_-QNAiEQ0e9z0tP0D6WFAHaHA_jpg.rf.92e28366c7c24f32e342db595ffffa6e.jpg
 
 ==========================================================================
-#TRAINING
+TRAINING
 
 The model used for testing:`best.pt`, was obtained by executing:
 
@@ -76,6 +76,8 @@ The training process was configured and adapted to run on a personal computer eq
 During training, intermediate model files—`best.pt` and `last.pt`—are saved to the directory `runs\segment\entrenamientos_yolo26\segmentacion_custom\weights`, which is created automatically.
 
 A compressed folder, `segmentacion_custom.zip`, is attached; it contains the training results, including the confusion matrix.
+
+================================================
 
 REFERENCES
 
