@@ -86,7 +86,7 @@ The 37 images from the file `Leukocoria Detector.v2-leukocoria-version-2.yolov8-
 
 The console output also specifies, for each image and each eye, whether it is labeled as healthy (in red) or as having leukocoria (in blue).
 
-Testing  37 images from the folder Leukocoria Detector.v2-leukocoria-version-2.yolov8-obb\\test only errors in:
+Testing  37 images from the folder Leukocoria Detector.v2-leukocoria-version-2.yolov8-obb\\test only errors are detected in images:
 
 64_png.rf.f358f66d074eb0881c3aa9928739d67f.jpg
 
@@ -95,7 +95,8 @@ image_295_png.rf.8b08082f95cf4b4760376373643b3ba7.jpg
 OIP_-_-QNAiEQ0e9z0tP0D6WFAHaHA_jpg.rf.92e28366c7c24f32e342db595ffffa6e.jpg
 
 
-=================================================
+=========================================
+
 TRAINING
 
 The model used for testing:`best.pt`, was obtained by executing:
