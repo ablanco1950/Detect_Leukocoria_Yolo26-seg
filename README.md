@@ -12,12 +12,19 @@ Leukocoria (commonly known as "white pupil" or "amaurotic cat's eye") is a clini
 What causes it?
 
 This sign appears when there is an opacity or an alteration in the internal structures of the eye (from the cornea to the retina) that prevents light from reflecting in the usual way:
+
 • Retinoblastoma: A malignant intraocular tumor that is very common in childhood; it accounts for nearly 50% of leukocoria cases in children.
+
 • Congenital cataracts: An opacity of the lens present from birth.
+
 • Persistent fetal vasculature (or primary hyperplastic vitreous): A failure in the regression of the eye's fetal blood vessels.
+
 • Coats' disease: An abnormality in the retinal blood vessels that leads to exudation and retinal detachment.
+
 • Retinopathy of prematurity (ROP): An alteration in the growth of retinal blood vessels in premature infants.
+
 • Other causes: Ocular toxoplasmosis, toxocariasis, retinal detachment, or optic nerve abnormalities.
+
 
 How it is detected
 
@@ -83,8 +90,11 @@ The console output also specifies, for each image and each eye, whether it is la
 Testing  37 images from the folder Leukocoria Detector.v2-leukocoria-version-2.yolov8-obb\\test only errors in:
 
 64_png.rf.f358f66d074eb0881c3aa9928739d67f.jpg
+
 image_295_png.rf.8b08082f95cf4b4760376373643b3ba7.jpg
+
 OIP_-_-QNAiEQ0e9z0tP0D6WFAHaHA_jpg.rf.92e28366c7c24f32e342db595ffffa6e.jpg
+
 
 =================================================
 TRAINING
