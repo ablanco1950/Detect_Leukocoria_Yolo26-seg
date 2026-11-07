@@ -120,3 +120,11 @@ https://universe.roboflow.com/leukocoria-detector-nv8ij/leukocoria-detector-rsl8
 https://github.com/ablanco1950/BrainTumorsSegmentation_yolo26
 
 https://medium.com/@mochammadyahya002/building-retina-ai-from-a-cnn-training-pipeline-to-a-retinoblastoma-screening-app-81379067c0cd)
+
+## Acknowledgements
+
+* This project benefited from the assistance of **Google Gemini** in designing data-processing scripts, optimizing hyperparameters, and structuring the workflow for YOLO26-seg.
+
+* Thanks to **Ultralytics** for providing the framework and the native tools for depth estimation.
+
+As the assistance was provided in Spanish, the comment lines within the code are in Spanish.
