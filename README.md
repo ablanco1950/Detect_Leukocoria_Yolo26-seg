@@ -114,6 +114,12 @@ A compressed folder, `segmentacion_custom.zip`, is attached; it contains the tra
 
 ![Figure 2](https://github.com/ablanco1950/Detect_Leukocoria_Yolo26-seg/blob/main/confusion_matrix_normalized.png)
 
+===============================================
+
+TASKS PLANNED FOR THIS TOPIC:
+
+Conduct tests using the Fastrcnn_fpn, RFDETRBase, and VisionTransformerCPU models—instead of yolo26-seg—to compare the results.
+
 ================================================
 
 REFERENCES
